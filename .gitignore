@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.dylib
+*.so
+*.dll
+cache_sim
+.DS_Store
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
