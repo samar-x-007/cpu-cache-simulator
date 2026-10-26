@@ -2,6 +2,8 @@
 
 A CPU cache simulator with a C++17 simulation engine, a C++ command-line runner, and a Python/Streamlit dashboard. The dashboard calls the C++ engine through a C-compatible interface and `ctypes`.
 
+**Live app:** [Open the CPU Cache Simulator](https://cpu-cache-simulator-przutrq43jdb6emjakgmaw.streamlit.app)
+
 ## Run the dashboard on macOS
 
 Install Xcode Command Line Tools if `clang++` is not available, then from this folder run:
